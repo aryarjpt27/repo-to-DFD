@@ -1,0 +1,6 @@
+/* Subtle app background similar to your wireframe */
+.app-bg {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #6d28d9 0%, #2563eb 100%);
+  padding-bottom: 48px;
+}
